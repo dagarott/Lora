@@ -1,0 +1,5 @@
+r
+loadfile build/test_stm32l051.bin 0x8000000
+r
+g
+exit

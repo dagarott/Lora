@@ -1,0 +1,51 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/usr/include/c++/8",
+                "/usr/include/x86_64-linux-gnu/c++/8",
+                "/usr/include/c++/8/backward",
+                "/usr/lib/gcc/x86_64-linux-gnu/8/include",
+                "/usr/local/include",
+                "/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed",
+                "/usr/include/x86_64-linux-gnu",
+                "/usr/include",
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/Inc",
+                "${workspaceFolder}/Src",
+                "${workspaceFolder}/Drivers/**",
+                "${workspaceFolder}/Drivers/STM32L0xx_HAL_Driver/Inc/**",
+                "${workspaceFolder}/Drivers/STM32L0xx_HAL_Driver/Src/**",
+                "${workspaceFolder}/Drivers/CMSIS/Include/**",
+                "${workspaceFolder}/Drivers/CMSIS/Devices/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "browse": {
+                "path": [
+                    "/usr/include/c++/8",
+                    "/usr/include/x86_64-linux-gnu/c++/8",
+                    "/usr/include/c++/8/backward",
+                    "/usr/lib/gcc/x86_64-linux-gnu/8/include",
+                    "/usr/local/include",
+                    "/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed",
+                    "/usr/include/x86_64-linux-gnu",
+                    "/usr/include",
+                    "${workspaceFolder}/**",
+                    "${workspaceFolder}/Inc",
+                    "${workspaceFolder}/Src",
+                    "${workspaceFolder}/Drivers/**",
+                    "${workspaceFolder}/Drivers/STM32L0xx_HAL_Driver/Inc/**",
+                    "${workspaceFolder}/Drivers/STM32L0xx_HAL_Driver/Src/**",
+                    "${workspaceFolder}/Drivers/CMSIS/Include/**",
+                    "${workspaceFolder}/Drivers/CMSIS/Devices/**"
+                ]
+            }
+        }
+    ],
+    "version": 4
+}
